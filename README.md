@@ -1,4 +1,4 @@
-# data-science-from-scracth-
+# data-science-from-scracth
 
 - `기간`: 2022.06~2022.08
 - `사용 언어`: Python
