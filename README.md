@@ -20,7 +20,7 @@
 └── relu.ipynb
 ```
 
-더 많은 내용은 [티스토리](https://sillon-coding.tistory.com/)에서 볼 수 있습니다.
+더 많은 내용은 제가 운영하는 블로그인, [티스토리](https://sillon-coding.tistory.com/)에서 볼 수 있습니다.
 
 ### [KNN From Scratch in Python](https://sillon-coding.tistory.com/195)
 
